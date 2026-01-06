@@ -1,0 +1,9 @@
+{
+	"servers": {
+		"UniversalRobots-MCP": {
+			"url": "http://localhost:5299/",
+			"type": "http"
+		}
+	},
+	"inputs": []
+}
